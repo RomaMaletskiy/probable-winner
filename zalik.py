@@ -6,7 +6,7 @@ for line in podil:
     k=line.split(" ")
     print(k[1])
 
-search=input("")
+search=input("Введіть число формату AAA")
 
 for line in podil:
     k = line.split(" ")
